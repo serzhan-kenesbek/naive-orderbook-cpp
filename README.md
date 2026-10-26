@@ -1,4 +1,4 @@
-# Order Book
+# Limit Order Book
 
 The OrderBook must perform three distinct functions with maximum efficiency:
 * The ID Lookup - given an id find an order instantly.
