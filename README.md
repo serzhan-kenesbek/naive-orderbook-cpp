@@ -19,12 +19,6 @@ Features:
 * Execute Trade - Decoupled execution logic handling order matching and volume updates
 * Integer Pricing - Replaced floating-point arithmetic with int64_t (64-bit fixed-width integer) to ensure deterministic, zero-loss calculations, and sub-nanosecond ALU performance.
 
-# Adding soon:
-* Add Benchmarking
-* Eliminate Dynamic Memory Allocation
-* Improve CPU Cache Locality
-* Advanced HFT: Threading & Lock-Free Data Structures
-
 # Goals for the project
 * Brush up C++17 knowledge
 * Understand Optimization and Data Structures critical for High Frequency Trading
